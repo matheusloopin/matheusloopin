@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Matheus oliveira</h1>
 <h3 align="center">Analista de Dados, amante da leitura e pai de menina 😍</h3>
 
-- 🕣🕕 Atualmente estou criando projetos práticos de análise de dados [Projeto-Analise-Exploratoria-e-Pré-processamento](https://github.com/matheusloopin/Projeto-Analise-Exploratoria-e-Pre-processamento/blob/main/Projeto-Analise-Exploratoria -e-Pre-processamento.ipynb)
+- 🕣 Projetos práticos de análise de dados Projeto-Analise-Exploratoria-e-Pré-processamento (https://github.com/matheusloopin/Projeto-Analise-Exploratoria-e-Pre-processamento/blob/main/Projeto-Analise-Exploratoria -e-Pre-processamento.ipynb)
 
 - 🌱Aperfeiçoando minhas técnicas de Análise com: **Python, SQL, Power BI e Estatísticas**
 
