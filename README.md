@@ -1,11 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Matheus oliveira</h1>
 <h3 align="center">Analista de Dados, amante da leitura e pai de menina 😍</h3>
 
-- 🕣🕕 Atualmente estou criando projetos práticos de análise de dados [Projeto-Analise-Exploratoria-e-Pré-processamento](https://github.com/matheusloopin/Projeto-Analise-Exploratoria-e-Pre-processamento)
+- 🕣 Atualmente estou criando projetos práticos de análise de dados [Projeto-Analise-Exploratoria-e-Pré-processamento](https://github.com/matheusloopin/Projeto-Analise-Exploratoria-e-Pre-processamento)
 
 - 🌱Aperfeiçoando minhas técnicas de Análise com: **Python, SQL, Power BI e Estatísticas**
-
-- Projeto Análise de dados [Regress-o-linear-para-predi-o-de-press-o-arterial](https://github.com/matheusloopin/Regress -o-linear-para-predi-o-de-press-o-arterial)
 
 - 💬 Me pergunte sobre: **Python, SQL, Power BI, Excel e Estatísticas básicas**
 
