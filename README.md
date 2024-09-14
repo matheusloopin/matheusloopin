@@ -1,18 +1,37 @@
-<h1 align="center">Olá 👋, eu sou Matheus oliveira</h1>
-<h3 align="center">Analista de Dados, amante da leitura e pai de menina 😍</h3>
+<h1 align="left">Olá 👋 meu nome é Matheus !</h1>
 
-- 🌱Aperfeiçoando minhas técnicas de Análise com: **Python, SQL, Power BI e Estatísticas**
+###
 
-- 💬 Me pergunte sobre: ​​**Python, SQL, Power BI, Excel e Estatísticas básicas**
+<p align="left"></p>
 
-- 📫 Você me acha através de **matheus97salvatory@gmail.com**
+###
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ matheus-oliveira -b8a1b62bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/ em/ matheus-oliveira-b8a1b62bb" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left "> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com /show/303229/microsoft-sql-server-logo.svg" alt="mssql" largura="40" altura="40"/> </a> <a href="https://www.mysql.com /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura ="40" altura="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" largura="40" altura="40"/> </a> <a href="https ://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" altura ="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </a> <a href="https://scikit-learn .org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusloopin&show_icons=true&locale=en&layout=compact" alt="matheusloopin" /></p>
+<p align="left">✨ Atualmente estou criando projetos práticos de Análise de dados.<br>📚 Estou aprendendo Estatística básica.<br>- 🌱Aperfeiçoando minhas técnicas de Análise com: **Python, SQL, Power BI e Estatísticas**<br><br>- 💬 Me pergunte sobre: ​​**Python, SQL, Power BI, Excel e Estatísticas básicas**<br>🎯 Goals: **Ser um profissional que resolva problemas de negócios **<br><br>🎲 Fun fact:** Moro em minas mas não sou mineiro, sou de Roraima.**<br><br>- 📫 Você me acha através de **matheus97salvatory@gmail.com**</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
