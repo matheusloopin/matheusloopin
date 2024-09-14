@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente estou criando projetos práticos de Análise de dados.<br><br>📚 Estou aprendendo Estatística básica.<br><br>- 🌱Aperfeiçoando minhas técnicas de Análise com: Python, SQL, Power BI e Estatísticas<br><br>- 💬 Me pergunte sobre: Python, SQL, Power BI, Excel e Estatísticas básicas<br><br>🎯 Goals:  Ser um profissional que resolva problemas de negócios.<br><br>🎲 Fun fact: Moro em minas mas não sou mineiro, sou de Roraima (descendente de índio)<br><br>- 📫 Você me acha através: matheus97salvatory@gmail.com</p>
+<p align="left">✨ Atualmente estou criando projetos práticos de Análise de dados.<br><br>📚 Estou aprendendo Estatística básica.<br><br>- 🌱Aperfeiçoando minhas técnicas de Análise com: Python, SQL, Power BI e Estatísticas.<br><br>- 💬 Me pergunte sobre: Python, SQL, Power BI, Excel e Estatísticas básicas.<br><br>🎯 Goals:  Ser um profissional que resolva problemas de negócios.<br><br>🎲 Fun fact: Moro em minas mas não sou mineiro, sou de Roraima (descendente de índio).<br><br>- 📫 Você me acha através: matheus97salvatory@gmail.com</p>
 
 ###
 
