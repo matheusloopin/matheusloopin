@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com especialização em Data Science, e recentemente concluí uma formação em Análise de Dados. Proativo e comunicativo, sou movido pela curiosidade e pelo pensamento crítico, características que me direcionaram para a área de ciência de dados. Estou sempre em busca de novas soluções para desafios complexos, com foco em transformar dados em insights valiosos para tomadas de decisão.</h2>
 
 ###
 
-<p align="left">✨ Atualmente estou criando projetos práticos de Análise de dados.<br><br>📚 Estou aprendendo Estatística básica.<br><br>- 🌱Aperfeiçoando minhas técnicas de Análise com: **Python, SQL, Power BI e Estatísticas**<br><br>- 💬 Me pergunte sobre: ​​**Python, SQL, Power BI, Excel e Estatísticas básicas**<br><br>🎯 Goals:  Ser um profissional que resolva problemas de negócios.<br><br>🎲 Fun fact: Moro em minas mas não sou mineiro, sou de Roraima.<br><br>- 📫 Você me acha através: matheus97salvatory@gmail.com</p>
+<p align="left">✨ Atualmente estou criando projetos práticos de Análise de dados.<br><br>📚 Estou aprendendo Estatística básica.<br><br>- 🌱Aperfeiçoando minhas técnicas de Análise com: **Python, SQL, Power BI e Estatísticas**<br><br>- 💬 Me pergunte sobre: ​​**Python, SQL, Power BI, Excel e Estatísticas básicas**<br><br>🎯 Goals:  Ser um profissional que resolva problemas de negócios.<br><br>🎲 Fun fact: Moro em minas mas não sou mineiro, sou de Roraima (descendente de índio)<br><br>- 📫 Você me acha através: matheus97salvatory@gmail.com</p>
 
 ###
 
