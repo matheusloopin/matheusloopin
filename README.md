@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com especialização em Data Science, e recentemente concluí uma formação em Análise de Dados. Proativo e comunicativo, sou movido pela curiosidade e pelo pensamento crítico, características que me direcionaram para a área de ciência de dados. Estou sempre em busca de novas soluções para desafios complexos, com foco em transformar dados em insights valiosos para tomadas de decisão.</h2>
+<h2 align="left">Sou formado em Análise e Desenvolvimento de Sistemas, recentemente concluí uma formação em Análise de Dados. Proativo e comunicativo, sou movido pela curiosidade e pelo pensamento crítico, características que me direcionaram para a área de ciência de dados. Estou sempre em busca de novas soluções para desafios complexos, com foco em transformar dados em insights valiosos para tomadas de decisão.</h2>
 
 ###
 
